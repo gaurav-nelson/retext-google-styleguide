@@ -1,0 +1,2010 @@
+{
+    "3-D":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "3D"
+       ]
+    },
+    "abort":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "stop", "exit", "cancel", "end"
+       ]
+    },
+    "above":{
+       "data":[
+          "OK to use except for printed documentation."
+       ],
+       "replace":[
+          "preceding"
+       ]
+    },
+    "access (verb)":{
+       "data":[
+          "Avoid when you can, in favor of other friendlier words."
+       ],
+       "replace":[
+          "see", "edit", "find", "use", "view"
+       ]
+    },
+    "account name":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "username"
+       ]
+    },
+    "actionable":{
+       "data":[
+          "Avoid unless it's the clearest and simplest phrasing for your audience. If not, then consider options such as leaving it out or replacing it with a phrase like \"that you can act on\" or \"useful.\" Don't use it in the legal sense without consulting a lawyer."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "action bar":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "app bar"
+       ]
+    },
+    "omnibox":{
+       "data":[
+          "Use 'address bar' to refer to the URL bar or the combined URL bar and search box in a browser. Don't use \"omnibox.\""
+       ],
+       "replace":[
+          "address bar"
+       ]
+    },
+    "admin":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "administrator"
+       ]
+    },
+    "Ajax":{
+       "data":[
+          "Our help site writes the term as \"AJAX,\" so that's how we currently write it in developer documentation as well."
+       ],
+       "replace":[
+          "AJAX"
+       ]
+    },
+    "Alpha":{
+       "data":[
+          "Lowercase except when part of a product name.  Recommended: Product Name Alpha OR Product Name is currently in alpha."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "among":{
+       "data":[
+          "Use among when you're talking about things that are part of a group or things that aren't distinct. For example, Recommended:  ... a traditional SQL database that can be shared among multiple apps. OR You can share services among multiple clients."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "&":{
+       "data":[
+          "In headings or text, don't use instead of \"and\"; however, it's OK to use in tables and UIs. And of course it's fine to use & for technical purposes in code."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "a.m.":{
+       "data":[
+          "To be consistent with Material Design, use all-caps, no periods, and a space before. Recommended: 9:00 AM or 10:30 PM"
+       ],
+       "replace":[
+          "AM"
+       ]
+    },
+    "p.m.":{
+       "data":[
+          "To be consistent with Material Design, use all-caps, no periods, and a space before. Recommended: 9:00 AM or 10:30 PM"
+       ],
+       "replace":[
+          "PM"
+       ]
+    },
+    "am":{
+       "data":[
+          "To be consistent with Material Design, use all-caps, no periods, and a space before. Recommended: 9:00 AM or 10:30 PM"
+       ],
+       "replace":[
+          "AM"
+       ]
+    },
+    "pm":{
+       "data":[
+          "To be consistent with Material Design, use all-caps, no periods, and a space before. Recommended: 9:00 AM or 10:30 PM"
+       ],
+       "replace":[
+          "PM"
+       ]
+    },
+    "and/or":{
+       "data":[
+          "Sometimes \"and/or\" is the clearest and most efficient way to express something. It's worth considering whether there's a good way to write around it, but it's not worth rewriting so that the text is harder to understand."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "android":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "Android"
+       ]
+    },
+    "Android device":{
+       "data":[
+          "Android-powered device; not \"Android device\""
+       ],
+       "replace":[
+          "Android-powered device"
+       ]
+    },
+    "API":{
+       "data":[
+          "Use \"API\" to refer to either a web API or a language-specific API. Don't use it when referring to a method or a class. For example, don't write \"This resource has one API\" when you mean \"This resource has one method.\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "dev console":{
+       "data":[
+          "API Console; not \"APIs console\" or \"developer console\" or \"dev console\". Short for \"Google API Console.\""
+       ],
+       "replace":[
+          "API console"
+       ]
+    },
+    "developer console":{
+       "data":[
+          "API Console; not \"APIs console\" or \"developer console\" or \"dev console\". Short for \"Google API Console.\""
+       ],
+       "replace":[
+          "API console"
+       ]
+    },
+    "APIs console":{
+       "data":[
+          "API Console; not \"APIs console\" or \"developer console\" or \"dev console\". Short for \"Google API Console.\""
+       ],
+       "replace":[
+          "API console"
+       ]
+    },
+    "API Console key":{
+       "data":[
+          "In most contexts, use \"API key\" instead of \"API Console key.\" In Apps admin APIs, however, it's okay to use \"API Console key\" to distinguish from other API keys."
+       ],
+       "replace":[
+          "API key"
+       ]
+    },
+    "dev key":{
+       "data":[
+          "API key; not \"developer key\" or \"dev key\""
+       ],
+       "replace":[
+          "API key"
+       ]
+    },
+    "developer key":{
+       "data":[
+          "API key; not \"developer key\" or \"dev key\""
+       ],
+       "replace":[
+          "API key"
+       ]
+    },
+    "APIs":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "APIs"
+       ]
+    },
+    "API explorer":{
+       "data":[
+          "APIs Explorer; not \"API explorer\" or other variants"
+       ],
+       "replace":[
+          "APIs Explorer"
+       ]
+    },
+    ".apk":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "APK"
+       ]
+    },
+    "application":{
+       "data":[
+          "Don't use. Instead, use \"app.\" The industry trend is toward \"app.\" It's okay to use \"application\" where it is part of a common phrase such as \"application programming interface,\" but in general usage, \"app\" is preferable."
+       ],
+       "replace":[
+          "app"
+       ]
+    },
+    "argument":{
+       "data":[
+          "(command-line context)Don't use. Instead, use \"option.\""
+       ],
+       "replace":[
+          "option"
+       ]
+    },
+    "authN":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "authentication"
+       ]
+    },
+    "authZ":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "authorization"
+       ]
+    },
+    "auto-healing":{
+       "data":[
+          "autohealing; not \"auto-healing\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "auto populate":{
+       "data":[
+          "autopopulate; not \"auto populate\" or \"auto-populate\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "auto-populate":{
+       "data":[
+          "autopopulate; not \"auto populate\" or \"auto-populate\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "auto-scaling":{
+       "data":[
+          "autoscaling; not \"auto-scaling\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "auto-tagging":{
+       "data":[
+          "autotagging; not \"auto-tagging\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "autoupdate":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "automatically update"
+       ]
+    },
+    "backwards compatible":{
+       "data":[
+          "backward compatible; not \"backwards compatible\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "below":{
+       "data":[
+          "OK to use except for printed documentation, in which case use \"following.\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "Beta":{
+       "data":[
+          "Lowercase except when part of a product name. Recommended: Product Name Beta OR Product Name is currently in beta."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "between":{
+       "data":[
+          "It's fine to use between when talking about more than two things; however, between isn't interchangeable with among. In particular, use between when you're talking about two or more distinct things: Recommended: JavaScript introduces dependencies between the DOM, the CSSOM, and JavaScript execution."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "cell phone":{
+       "data":[
+          "Don't use. Instead, use \"mobile\" or \"mobile phone\" or (if you're talking about more than just phones) \"mobile device.\" Using \"phone\" (without \"mobile\") is fine when the context is clear."
+       ],
+       "replace":[
+          "phone", "mobile", "mobile phone", "mobile device"
+       ]
+    },
+    "cellular data":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "mobile data"
+       ]
+    },
+    "cellular network":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "mobile network"
+       ]
+    },
+    "chapter":{
+       "data":[
+          "When referring to documentation that isn't in the form of a book, don't use the term \"chapter.\""
+       ],
+       "replace":[
+          "documents", "pages", "sections"
+       ]
+    },
+    "check":{
+       "data":[
+          "Don't use to refer to marking a checkbox. Instead, use \"select.\""
+       ],
+       "replace":[
+          "select"
+       ]
+    },
+    "check box":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "checkbox"
+       ]
+    },
+    "CLI":{
+       "data":[
+          "Don't use. Instead, use command-line tool or similar noun."
+       ],
+       "replace":[
+          "command-line tool"
+       ]
+    },
+    "click on":{
+       "data":[
+          "Use \"click in\" when referring to a region (\"click in the window\"), but not when referring to a control or a link. For Android apps, don't use \"click\". Instead, use \"tap.\""
+       ],
+       "replace":[
+          "click in"
+       ]
+    },
+    "click here":{
+       "data":[
+          "Don't use. Instead use the exact title of the linked-to page, capitalized the same way the title is capitalized. OR A description of the linked-to page, capitalized like ordinary text instead of like a title. Don't use a URL as link text. Instead, use the page title or a description of the page."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "client":{
+       "data":[
+          "In REST and RPC API documentation, \"client\" is short for \"client app\"�that is, the app that the developer is writing. Don't use \"client\" as an abbreviation for \"client library\"; instead, use \"library.\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "Cloud":{
+       "data":[
+          "Don't use as short for Google Cloud Platform. Instead, use Google Cloud Platform on first use, and GCP thereafter."
+       ],
+       "replace":[
+          "Google Cloud Platform", "GCP"
+       ]
+    },
+    "Google Cloud Platform SDK":{
+       "data":[
+          "Use \"Cloud SDK\" instead"
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "code base":{
+       "data":[
+          "Use \"codebase\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "code lab":{
+       "data":[
+          "Use \"codelab\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "co-locate":{
+       "data":[
+          "Use \"colocate\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "Container Engine":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "Kubernetes Engine"
+       ]
+    },
+    "content type":{
+       "data":[
+          "Don't use when referring to types such as \"application/json\"; instead, use \"media type.\""
+       ],
+       "replace":[
+          "media type"
+       ]
+    },
+    "Ctl-S":{
+       "data":[
+          "To refer to a Control character, use Control+character. (In most cases, use an uppercase letter for character.) Note that in macOS, many keyboard commands use the Command key instead of the Control key, and there's an Option key instead of an Alt key. If your audience includes macOS users as well as Windows or Linux users, then mention both keyboard commands. Example: \"Control+S (Command+S on Macintosh)\"."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "Cmd-S":{
+       "data":[
+          "To refer to a Control character, use Control+character. (In most cases, use an uppercase letter for character.) Note that in macOS, many keyboard commands use the Command key instead of the Control key, and there's an Option key instead of an Alt key. If your audience includes macOS users as well as Windows or Linux users, then mention both keyboard commands. Example: \"Control+S (Command+S on Macintosh)\"."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "Cloverleaf-S":{
+       "data":[
+          "To refer to a Control character, use Control+character. (In most cases, use an uppercase letter for character.) Note that in macOS, many keyboard commands use the Command key instead of the Control key, and there's an Option key instead of an Alt key. If your audience includes macOS users as well as Windows or Linux users, then mention both keyboard commands. Example: \"Control+S (Command+S on Macintosh)\"."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "cpu":{
+       "data":[
+          "Use \"CPU\", all caps. No need to expand the abbreviation on first mention."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "curated roles":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "predefined roles"
+       ]
+    },
+    "data are":{
+       "data":[
+          "In our usage, \"data\" is singular, not plural. Say \"the data is,\" not \"the data are.\" Also, in our usage, data is a mass noun, not a count noun; for example, say \"less data\" rather than \"fewer data.\""
+       ],
+       "replace":[
+          "data is"
+       ]
+    },
+    "fewer data":{
+       "data":[
+          "In our usage, \"data\" is singular, not plural. Say \"the data is,\" not \"the data are.\" Also, in our usage, data is a mass noun, not a count noun; for example, say \"less data\" rather than \"fewer data.\""
+       ],
+       "replace":[
+          "less data"
+       ]
+    },
+    "datacenter":{
+       "data":[
+          "Use \"data center\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "data cleansing":{
+       "data":[
+          "Use \"data cleaning\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "data set":{
+       "data":[
+          "Use \"dataset\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "datasource":{
+       "data":[
+          "Use \"data source\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "datatype":{
+       "data":[
+          "Use \"data type\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "deep-linking":{
+       "data":[
+          "Use \"deep linking\". However, if it would work to replace with \"linking,\" then do that."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "deselect":{
+       "data":[
+          "Don't use to refer to clearing a check mark from a checkbox. Instead, use \"clear.\""
+       ],
+       "replace":[
+          "clear"
+       ]
+    },
+    "Developers Console":{
+       "data":[
+          "Don't use. Instead, use \"Google API Console\" or \"API Console.\""
+       ],
+       "replace":[
+          "Google API Console", "API Console"
+       ]
+    },
+    "Developer's Guide":{
+       "data":[
+          "Use 'Developer's Guide' instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "Developers' Guide":{
+       "data":[
+          "Use 'Developer's Guide' instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "folder":{
+       "data":[
+          "If the context you're documenting (such as an IDE's GUI) uses one term or the other, use that term. If not, then use \"directory\" in a command-line context, and \"folder\" in a GUI context. When in doubt, default to \"directory.\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "directory":{
+       "data":[
+          "If the context you're documenting (such as an IDE's GUI) uses one term or the other, use that term. If not, then use \"directory\" in a command-line context, and \"folder\" in a GUI context. When in doubt, default to \"directory.\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "disabled":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "turn off", "off"
+       ]
+    },
+    "disable":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "turn off", "off"
+       ]
+    },
+    "doc set":{
+       "data":[
+          "Use \"docset\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "doc":{
+       "data":[
+          "Use \"documentation\" or \"document\" or \"documents\", whichever is applicable instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "docs":{
+       "data":[
+          "Use \"documentation\" or \"document\" or \"documents\", whichever is applicable instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "easy":{
+       "data":[
+          "Avoid using phrases like \"simply\" or \"It's that simple\" or \"It's easy\" in a procedure, unless it's an extraordinarily simple/easy procedure"
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "e-commerce":{
+       "data":[
+          "Use \"ecommerce\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "e.g.":{
+       "data":[
+          "Don't use. Instead, use phrases like \"for example\" or \"for instance.\" Too many people mix up \"e.g.\" and \"i.e.\""
+       ],
+       "replace":[
+          "for example", "for instance"
+       ]
+    },
+    "either":{
+       "data":[
+          "Usage note 1: When using \"either,\" use parallel syntax�\"Do either foo or bar\" is fine, as is \"Either do foo or do bar,\" but not \"Either do foo or bar.\" Usage note 2: We recommend using \"either\" only for a choice between two things, not for a choice among multiple things; however, this is a weak recommendation rather than a firm rule. Saying \"either A or B or C\" will annoy and distract some readers, but if it's the best phrasing for your situation, then use it."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "tag":{
+       "data":[
+          "HTML 4 elements are often referred to as \"tags,\" but the equivalent items in modern HTML and XML are officially known as \"elements.\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "e-mail":{
+       "data":[
+          "Use 'email' instead. As of mid-2017, Merriam-Webster dictionaries still prefer \"e-mail\" to \"email.\" But the AP style manual switched to \"email\" in March 2011, and the New York Times switched to \"email\" in October 2013. In some contexts, \"mail\" is a better choice."
+       ],
+       "replace":[
+          "email"
+       ]
+    },
+    "Email":{
+       "data":[
+          "Use 'email' instead. As of mid-2017, Merriam-Webster dictionaries still prefer \"e-mail\" to \"email.\" But the AP style manual switched to \"email\" in March 2011, and the New York Times switched to \"email\" in October 2013. In some contexts, \"mail\" is a better choice."
+       ],
+       "replace":[
+          "email"
+       ]
+    },
+    "E-mail":{
+       "data":[
+          "Use 'email' instead. As of mid-2017, Merriam-Webster dictionaries still prefer \"e-mail\" to \"email.\" But the AP style manual switched to \"email\" in March 2011, and the New York Times switched to \"email\" in October 2013. In some contexts, \"mail\" is a better choice."
+       ],
+       "replace":[
+          "email"
+       ]
+    },
+    "enable":{
+       "data":[
+          "Don't use. Instead, use \"turn on\" or \"on.\" However, in GCP documentation, it's fine to use enable."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "enabled":{
+       "data":[
+          "Don't use. Instead, use \"turn on\" or \"on.\" However, in GCP documentation, it's fine to use enable."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "end point":{
+       "data":[
+          "Use \"endpoint\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "end user":{
+       "data":[
+          "end user (noun), end-user (adjective). Also consider just \"user\"."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "end-user":{
+       "data":[
+          "end user (noun), end-user (adjective). Also consider just \"user\"."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "external IP address":{
+       "data":[
+          "Do not use \"static IP address\" or \"external IP address\" to refer to static external IP addresses. Use static external IP address instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "ephemeral IP address":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "ephemeral external IP address"
+       ]
+    },
+    "and so on":{
+       "data":[
+          "Avoid both \"etc.\" and \"and so on\" wherever possible, but if you really need to use one, use \"etc.\" Always include the period, even if a comma follows immediately after. In GCP documentation, never use \"etc.\" under any circumstances."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "etc.":{
+       "data":[
+          "Avoid both \"etc.\" and \"and so on\" wherever possible, but if you really need to use one, use \"etc.\" Always include the period, even if a comma follows immediately after. In GCP documentation, never use \"etc.\" under any circumstances."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "ETL":{
+       "data":[
+          "OK to use with caution, but write out on first mention: extract, transform, and load (ETL)."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "expando":{
+       "data":[
+          "The UI element used to expand or collapse a section of navigation or content. We don't often refer to these explicitly in documentation, but when we do, use the terms \"expander arrow\" and \"expandable section\" rather than terms like \"expando\" or \"zippy.\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "exploit":{
+       "data":[
+          "Don't use to mean \"use.\" Only use in the negative sense."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "file name":{
+       "data":[
+          "Use \"filename\" instead."
+       ],
+       "replace":[
+          "filename"
+       ]
+    },
+    "firewalls":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "firewall rules"
+       ]
+    },
+    "flag":{
+       "data":[
+          "(command line context) Don't use. Instead, use \"option.\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "functionality":{
+       "data":[
+          "On the one hand, everyone knows what this means. On the other hand, it's kinda jargony. So where possible, use terms like \"capabilities\" and \"features\" instead."
+       ],
+       "replace":[
+          "capability", "feature"
+       ]
+    },
+    "Cloud Platform":{
+       "data":[
+          "Use GCP instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "Cloud project ID":{
+       "data":[
+          "Use GCP project ID instead. You can also shorten to project ID, but be aware that that term is ambiguous in some contexts."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "he":{
+       "data":[
+          "Don't use. Instead, use the singular \"they\". If you can't stand that, then use \"he or she,\" or rewrite to avoid singular gendered pronouns. Don't use \"he/she\" or \"(s)he\" or other such punctuational approaches."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "she":{
+       "data":[
+          "Don't use. Instead, use the singular \"they\". If you can't stand that, then use \"he or she,\" or rewrite to avoid singular gendered pronouns. Don't use \"he/she\" or \"(s)he\" or other such punctuational approaches."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "him":{
+       "data":[
+          "Don't use. Instead, use the singular \"they\". If you can't stand that, then use \"he or she,\" or rewrite to avoid singular gendered pronouns. Don't use \"he/she\" or \"(s)he\" or other such punctuational approaches."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "his":{
+       "data":[
+          "Don't use. Instead, use the singular \"they\". If you can't stand that, then use \"he or she,\" or rewrite to avoid singular gendered pronouns. Don't use \"he/she\" or \"(s)he\" or other such punctuational approaches."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "her":{
+       "data":[
+          "Don't use. Instead, use the singular \"they\". If you can't stand that, then use \"he or she,\" or rewrite to avoid singular gendered pronouns. Don't use \"he/she\" or \"(s)he\" or other such punctuational approaches."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "hers":{
+       "data":[
+          "Don't use. Instead, use the singular \"they\". If you can't stand that, then use \"he or she,\" or rewrite to avoid singular gendered pronouns. Don't use \"he/she\" or \"(s)he\" or other such punctuational approaches."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "he/she":{
+       "data":[
+          "Don't use. Instead, use the singular \"they\". If you can't stand that, then use \"he or she,\" or rewrite to avoid singular gendered pronouns. Don't use \"he/she\" or \"(s)he\" or other such punctuational approaches."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "(s)he":{
+       "data":[
+          "Don't use. Instead, use the singular \"they\". If you can't stand that, then use \"he or she,\" or rewrite to avoid singular gendered pronouns. Don't use \"he/she\" or \"(s)he\" or other such punctuational approaches."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    ".gif":{
+       "data":[
+          "Don't use a filetype extension to refer to a type of file. For example, use \"GIF file\" rather than \".gif file.\""
+       ],
+       "replace":[
+          "GIF file"
+       ]
+    },
+    "GIF":{
+       "data":[
+          "Don't use a filetype extension to refer to a type of file. For example, use \"GIF file\" rather than \".gif file.\""
+       ],
+       "replace":[
+          "GIF file"
+       ]
+    },
+    "Googling":{
+       "data":[
+          "Don't use as a verb or gerund. Instead, use \"search with Google.\""
+       ],
+       "replace":[
+          "search with Google"
+       ]
+    },
+    "Google accounts":{
+       "data":[
+          "Use \"Google Accounts\" (capital A)"
+       ],
+       "replace":[
+          "Google Accounts"
+       ]
+    },
+    "Google account":{
+       "data":[
+          "Use Google Account (capital A)"
+       ],
+       "replace":[
+          "Google Account"
+       ]
+    },
+    "Google I-O":{
+       "data":[
+          "Use Google I/O instead."
+       ],
+       "replace":[
+          "Google I/O"
+       ]
+    },
+    "Google IO":{
+       "data":[
+          "Use Google I/O instead."
+       ],
+       "replace":[
+          "Google I/O"
+       ]
+    },
+    "grayed-out":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "unavailable"
+       ]
+    },
+    "hack-a-thon":{
+       "data":[
+          "Use \"hackathon\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "hit":{
+       "data":[
+          "Don't use as a synonym for \"click.\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "host name":{
+       "data":[
+          "Use \"hostname\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "HTTPS; not \"HTTPs\"":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "HTTPS"
+       ]
+    },
+    "IaaS":{
+       "data":[
+          "Write out on first mention: infrastructure as a service (IaaS)."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "Id":{
+       "data":[
+          "Not \"Id\" or \"id,\" except in string literals or enums. In some contexts, best to spell out as \"identifier\" or \"identification.\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "id":{
+       "data":[
+          "Not \"Id\" or \"id,\" except in string literals or enums. In some contexts, best to spell out as \"identifier\" or \"identification.\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "i.e.":{
+       "data":[
+          "Don't use. Instead, use phrases like \"that is.\" Too many people mix up \"e.g.\" and \"i.e.\""
+       ],
+       "replace":[
+          "that is"
+       ]
+    },
+    "impacts":{
+       "data":[
+          "Use only as a noun. Not recommended: This issue impacts user experience. Recommended: This issue affects user experience."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "ingest":{
+       "data":[
+          "Avoid in most cases when referring to data. Instead, use import or load."
+       ],
+       "replace":[
+          "import", "load"
+       ]
+    },
+    "in order to":{
+       "data":[
+          "If at all possible, don't use \"in order to\"; instead, use \"to.\" Very occasionally, \"in order to\" does clarify meaning or make something easier to read."
+       ],
+       "replace":[
+          "to"
+       ]
+    },
+    "interface":{
+       "data":[
+          "OK to use as a noun, but don't use as a verb. Instead, try \"interact,\" \"talk,\" \"speak,\" \"communicate,\" or other similar terms."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "network IP address":{
+       "data":[
+          "Do not use"
+       ],
+       "replace":[
+          "internal IP address"
+       ]
+    },
+    "jank":{
+       "data":[
+          "Use with caution. Think about whether your audience will understand it."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    ".jpg":{
+       "data":[
+          "Don't use a filename extension to refer to a type of file. For example, use \"JPEG file\" rather than \".jpg file.\""
+       ],
+       "replace":[
+          "JPEG file"
+       ]
+    },
+    "k8s":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "Kubernetes"
+       ]
+    },
+    "key/value":{
+       "data":[
+          "Use key-value instead, especially as in \"key-value pair\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "kill":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "stop", "exit", "cancel", "end"
+       ]
+    },
+    "learnings":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "let's":{
+       "data":[
+          "As a contraction of \"let us\". Don't use if at all possible."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "life cycle":{
+       "data":[
+          "Use \"lifecycle\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "life-cycle":{
+       "data":[
+          "Use \"lifecycle\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "live stream":{
+       "data":[
+          "Use \"livestream\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "long press":{
+       "data":[
+          "Don't use. Instead, use \"touch & hold.\" (Not \"touch and hold.\")"
+       ],
+       "replace":[
+          "touch & hold"
+       ]
+    },
+    "meta-data":{
+       "data":[
+          "Use \"metadata\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "meta-feed":{
+       "data":[
+          "Use \"metafeed\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "name space":{
+       "data":[
+          "Use \"namespace\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "NAT-ted":{
+       "data":[
+          "To turn into an adjective, use NAT-translated, or rephrase. Don't use NATted or NAT-ted."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "NATted":{
+       "data":[
+          "To turn into an adjective, use NAT-translated, or rephrase. Don't use NATted or NAT-ted."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "non-fatal":{
+       "data":[
+          "Use \"nonfatal\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "OAuth 2":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "OAuth 2.0"
+       ]
+    },
+    "OAuth2":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "OAuth 2.0"
+       ]
+    },
+    "Oauth":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "OAuth 2.0"
+       ]
+    },
+    "ok":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "OK", "okay"
+       ]
+    },
+    "Okay":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "OK", "okay"
+       ]
+    },
+    "once":{
+       "data":[
+          "If you mean \"after,\" then use \"after\" instead of \"once.\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "on prem":{
+       "data":[
+          "on-premises (adjective), on premises (noun). Use to refer to a customer's resources that aren't part of Google Cloud Platform. Don't use peer."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "on premise":{
+       "data":[
+          "on-premises (adjective), on premises (noun). Use to refer to a customer's resources that aren't part of Google Cloud Platform. Don't use peer."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "open-source":{
+       "data":[
+          "Use 'open source' instead.  (no hyphen, not even as an adjective or verb)"
+       ],
+       "replace":[
+          "open source"
+       ]
+    },
+    "overview screen":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "recents screen"
+       ]
+    },
+    "PaaS":{
+       "data":[
+          "Write out on first mention: platform as a service (PaaS)."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "parent-child":{
+       "data":[
+          "Use parent-child or parent/child instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "parent - child":{
+       "data":[
+          "Use parent-child or parent/child instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "filepath":{
+       "data":[
+          "Use 'path' instead. Avoid using \"filepath,\" \"file path,\" \"pathname,\" or \"path name\" if possible."
+       ],
+       "replace":[
+          "path"
+       ]
+    },
+    "file path":{
+       "data":[
+          "Use 'path' instead. Avoid using \"filepath,\" \"file path,\" \"pathname,\" or \"path name\" if possible."
+       ],
+       "replace":[
+          "path"
+       ]
+    },
+    "pathname":{
+       "data":[
+          "Use 'path' instead. Avoid using \"filepath,\" \"file path,\" \"pathname,\" or \"path name\" if possible."
+       ],
+       "replace":[
+          "path"
+       ]
+    },
+    "path name":{
+       "data":[
+          "Use 'path' instead. Avoid using \"filepath,\" \"file path,\" \"pathname,\" or \"path name\" if possible."
+       ],
+       "replace":[
+          "path"
+       ]
+    },
+    "persist":{
+       "data":[
+          "Don't use as a transitive verb, and best to avoid using as a verb at all, especially in passive voice. Not recommended: The token is persisted � Not recommended: To persist the token � Recommended: To make the token persistent �"
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "PD":{
+       "data":[
+          "Use \"persistent disk\"; not \"PD\". Lowercase except at the start of a sentence."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "plaintext":{
+       "data":[
+          "Use plain text (but \"plaintext\" in cryptography context)"
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "please":{
+       "data":[
+          "using \"please\" in a set of instructions is overdoing the politeness. Not recommended: To view the document, please click View. Recommended: To view the document, click View."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    ".png":{
+       "data":[
+          "Don't use a filetype extension to refer to a type of file. For example, use \"PNG file\" rather than \".png file.\""
+       ],
+       "replace":[
+          "PNG file"
+       ]
+    },
+    "pre-condition":{
+       "data":[
+          "Use \"precondition\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "pre-defined":{
+       "data":[
+          "Use \"predefined\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "pre-emptive":{
+       "data":[
+          "Use \"preemptible\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "pre-emptible":{
+       "data":[
+          "Use \"preemptible\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "pre-recorded":{
+       "data":[
+          "Use \"prerecorded\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "press":{
+       "data":[
+          "Use for keyboard actions such as pressing a key. Also use for mechanical buttons. Use \"tap\" for on-screen and soft (capacitive) buttons."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "project":{
+       "data":[
+          "In GCP documentation, don't use. Instead, use Google Cloud Platform project or GCP project."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "RDP":{
+       "data":[
+          "Don't use as a verb. Instead, use connect using RDP. Or, if it's clear from context that they're using RDP, then just use connect."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "regex":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "regular expression"
+       ]
+    },
+    "Representational State Transfer":{
+       "data":[
+          "Don't use. To people unfamiliar with REST, this acronym expansion is meaningless; better to just refer to it as REST and don't bother trying to explain what it theoretically stands for."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "review":{
+       "data":[
+          "If you mean \"read, potentially for the first time,\" then use \"read\" instead of \"review.\" Of course, if you mean \"read critically, commenting on problems\" (as in \"code review\"), then \"review\" is fine; the usage to avoid is phrasing like \"If you've never heard of OAuth, then review the OAuth documentation.\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "run book":{
+       "data":[
+          "Use \"runbook\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "run time":{
+       "data":[
+          "Use \"runtime\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "SaaS":{
+       "data":[
+          "Write out on first mention: software as a service (SaaS)."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "screensnap":{
+       "data":[
+          "Use 'screenshot'. Don't use as a verb; instead, use take a screenshot."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "screen shot":{
+       "data":[
+          "Use 'screenshot'. Don't use as a verb; instead, use take a screenshot."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "SHA1":{
+       "data":[
+          "Use \"SHA-1,\" except in string literals/enums and in hyphenated phrases such as \"HSA-SHA1.\""
+       ],
+       "replace":[
+          "SHA-1", "HAS-SHA1"
+       ]
+    },
+    "should":{
+       "data":[
+          "Generally avoid. Better to use \"must\" or just leave out the word \"should.\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "signin":{
+       "data":[
+          "Use sign-in (noun or adjective), sign in (verb) instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "log in":{
+       "data":[
+          "Use sign-in (noun or adjective), sign in (verb) instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "sign into":{
+       "data":[
+          "Don't use. Instead, use sign in to."
+       ],
+       "replace":[
+          "sign in to"
+       ]
+    },
+    "sign on":{
+       "data":[
+          "Don't use. Use the hyphenated version as part of \"single sign-on.\""
+       ],
+       "replace":[
+          "single sign-on"
+       ]
+    },
+    "sign-on":{
+       "data":[
+          "Don't use. Use the hyphenated version as part of \"single sign-on.\""
+       ],
+       "replace":[
+          "single sign-on"
+       ]
+    },
+    "signout":{
+       "data":[
+          "Use sign-out (noun or adjective), sign out (verb) instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "log out":{
+       "data":[
+          "Use sign-out (noun or adjective), sign out (verb) instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "simply":{
+       "data":[
+          "Avoid using phrases like \"simply\" or \"It's that simple\" or \"It's easy\" in a procedure, unless it's an extraordinarily simple/easy procedure"
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "simple":{
+       "data":[
+          "Avoid using phrases like \"simply\" or \"It's that simple\" or \"It's easy\" in a procedure, unless it's an extraordinarily simple/easy procedure"
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "since":{
+       "data":[
+          "If you mean \"because,\" then use \"because\" instead of \"since.\" \"Since\" is ambiguous; it can refer to the passage of time. \"Because\" refers to causation or the reason for something."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "singlemost":{
+       "data":[
+          "Use \"single most\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "slave":{
+       "data":[
+          "Avoid the word \"slave\". Instead, use alternative terms appropriate to your domain. Some possible options include: master/{drone, worker, replica, minion, servant}; primary/{secondary, replicated}. If the command or code you're documenting uses the literal word \"slave,\" then make it clear that you're referring to it. For example, \"Invoke the secondary (slave) process directly when debugging issues between the primary and secondary processes.\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "smartphone":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "mobile phone", "phone"
+       ]
+    },
+    "ssh'ing":{
+       "data":[
+          "Use alternatives to \"ssh'ing\" unless there is just no way around it. Recommended: ... connect/connecting via SSH. Recommended: ... use/using SSH to connect/forward/tunnel/log in."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "static IP address":{
+       "data":[
+          "Do not use \"static IP address\" or \"external IP address\" to refer to static external IP addresses. "
+       ],
+       "replace":[
+          "static external IP address"
+       ]
+    },
+    "stylesheet":{
+       "data":[
+          "Use 'style sheet'. This is the official spelling, per the World Wide Web Consortium (W3C)."
+       ],
+       "replace":[
+          "style sheet"
+       ]
+    },
+    "sub-class":{
+       "data":[
+          "Use \"subclass\" instead. (noun or verb)"
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "subcommand":{
+       "data":[
+          "Use \"sub-command\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "sub-tree":{
+       "data":[
+          "Use \"subtree\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "synch":{
+       "data":[
+          "Use 'sync'.  Recommended: in sync Recommended: sync, syncing, synced"
+       ],
+       "replace":[
+          "sync"
+       ]
+    },
+    "tab":{
+       "data":[
+          "When referring to the sub-pages of the API Console, use \"page\" instead of \"tab\"."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "tablename":{
+       "data":[
+          "Two words. Set specific table names in code font."
+       ],
+       "replace":[
+          "table name"
+       ]
+    },
+    "tablet":{
+       "data":[
+          "\"Tablet\" is OK. If you don't know whether it's a tablet or a phone, use \"device.\""
+       ],
+       "replace":[
+          "device"
+       ]
+    },
+    "tap & hold":{
+       "data":[
+          "Don't use. Instead, use \"touch & hold.\" (Not \"touch and hold.\")"
+       ],
+       "replace":[
+          "touch & hold"
+       ]
+    },
+    "tap and hold":{
+       "data":[
+          "Don't use. Instead, use \"touch & hold.\" (Not \"touch and hold.\")"
+       ],
+       "replace":[
+          "touch & hold"
+       ]
+    },
+    "target":{
+       "data":[
+          "Avoid using as a verb when possible, especially in reference to people. For some readers, has aggressive connotations. Instead of \"targeting\" audiences, we try to attract them or appeal to them or make their lives easier. (Using it as an adjective, as in \"target audience,\" is probably fine.) Alternatives include terms such as \"intended for,\" \"looking for,\" \"focused on,\" and \"interacting with.\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "terminate":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "stop", "exit", "cancel", "end"
+       ]
+    },
+    "textbox":{
+       "data":[
+          "In GCP documentation, don't use. Instead, use field. For example: In the Instance field, specify a value less than 64 characters long."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "time frame":{
+       "data":[
+          "Use 'timeframe' instead. Avoid where possible, or use an alternative such as \"period,\" \"schedule,\" \"deadline,\" or \"when.\" But if you do use it, write it without a space in the middle."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "time stamp":{
+       "data":[
+          "Use \"timestamp\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "touch":{
+       "data":[
+          "Don't use. Instead, use \"tap.\" However, \"touch & hold\" is OK to use."
+       ],
+       "replace":[
+          "tap"
+       ]
+    },
+    "touch and hold":{
+       "data":[
+          "Use \"touch & hold\" instead."
+       ],
+       "replace":[
+          "touch & hold"
+       ]
+    },
+    "touch screen":{
+       "data":[
+          "Use \"touchscreen\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "transcompile":{
+       "data":[
+          "Use \"transpile\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "turn on":{
+       "data":[
+          "In GCP documentation, don't use turn on. Instead, use enable."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "typically":{
+       "data":[
+          "Use to describe what is usual or expected under normal circumstances. Don't use as the first word in a sentence, as doing so can leave the meaning open to misinterpretation."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "uncheck":{
+       "data":[
+          "Don't use to refer to clearing a check mark from a checkbox. Instead, use \"clear.\""
+       ],
+       "replace":[
+          "clear"
+       ]
+    },
+    "unselect":{
+       "data":[
+          "Don't use. Instead, use clear for checkboxes, and deselect for other UI elements."
+       ],
+       "replace":[
+          "clear"
+       ]
+    },
+    "url":{
+       "data":[
+          "All caps. Plural is \"URLs.\" Write \"a URL\" rather than \"an URL\", because the most common pronunciation starts with a consonant sound."
+       ],
+       "replace":[
+          "URL"
+       ]
+    },
+    "userbase":{
+       "data":[
+          "Use 'user base' instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "user name":{
+       "data":[
+          "Use 'username' instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "vs.":{
+       "data":[
+          "Don't use \"vs.\" as an abbreviation for \"versus\"; instead, use the unabbreviated \"versus.\""
+       ],
+       "replace":[
+          "versus"
+       ]
+    },
+    "voila":{
+       "data":[
+          "Don't use."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "walk-through":{
+       "data":[
+          "Use \"walkthrough\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "webpage":{
+       "data":[
+          "Use \"web page.\" But where possible, avoid both by using \"page.\""
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "web site":{
+       "data":[
+          "Use \"website\" (lowercase w) instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "white space":{
+       "data":[
+          "Use \"whitespace\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "WiFi":{
+       "data":[
+          "Use 'Wi-Fi'. When possible, instead use \"wireless.\""
+       ],
+       "replace":[
+          "Wi-Fi"
+       ]
+    },
+    "wifi":{
+       "data":[
+          "Use 'Wi-Fi'. When possible, instead use \"wireless.\""
+       ],
+       "replace":[
+          "Wi-Fi"
+       ]
+    },
+    "wildcard; not \"wild card\"":{
+       "data":[
+          "Use \"wildcard\" instead."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "with":{
+       "data":[
+          "Don't use with when expressing ownership. Not recommended: A handset with 2 GB of RAM. Recommended: A handset that has 2 GB of RAM."
+       ],
+       "replace":[
+          ""
+       ]
+    },
+    "World Wide Web":{
+       "data":[
+          "Do not use."
+       ],
+       "replace":[
+          "web"
+       ]
+    },
+    ".zip":{
+       "data":[
+          "Don't use a filename extension to refer to a type of file. For example, use \"zip file\" rather than \".zip file.\""
+       ],
+       "replace":[
+          "zip file"
+       ]
+    },
+    "zippy":{
+       "data":[
+          "Don't use to refer to expander arrows, unless you're specifically referring to the Zippy widget in Closure."
+       ],
+       "replace":[
+          ""
+       ]
+    }
+ }

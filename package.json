@@ -1,0 +1,45 @@
+{
+  "name": "retext-google-styleguide",
+  "version": "1.0.0",
+  "description": "Word usage guidence from Google Developer Documentation Style Guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaurav-nelson/retext-google-styleguide.git"
+  },
+  "keywords": [
+    "google",
+    "styleguide",
+    "technical",
+    "writing",
+    "publication",
+    "editing",
+    "authoring",
+    "english",
+    "word",
+    "usage",
+    "documentation"
+  ],
+  "author": "Gaurav Nelson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaurav-nelson/retext-google-styleguide/issues"
+  },
+  "homepage": "https://github.com/gaurav-nelson/retext-google-styleguide#readme",
+  "dependencies": {
+    "lodash.difference": "^4.5.0",
+    "nlcst-search": "^1.4.2",
+    "nlcst-to-string": "^2.0.1",
+    "object-keys": "^1.0.11",
+    "quotation": "^1.1.0",
+    "retext": "^5.0.0",
+    "to-vfile": "^2.2.0",
+    "unist-util-find-after": "^2.0.1",
+    "unist-util-find-before": "^2.0.1",
+    "unist-util-position": "^3.0.0",
+    "vfile-reporter": "^4.0.0"
+  }
+}
