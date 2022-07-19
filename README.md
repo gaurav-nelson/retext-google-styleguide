@@ -23,15 +23,17 @@ Then hit autoupdate to update the app.
 And our script, `example.js`, looks as follows:
 
 ```javascript
-var vfile = require('to-vfile');
-var report = require('vfile-reporter');
-var retext = require('retext');
-var googlestyleguide = require('retext-google-styleguide');
+import {retext} from 'retext'
+import googlestyleguide from 'retext-google-styleguide';
+//import {readSync} from 'to-vfile'
+import pkg from 'to-vfile'
+const {readSync} = pkg;
+import {reporter} from 'vfile-reporter'
 
 retext()
   .use(googlestyleguide)
-  .process(vfile.readSync('example.txt'), function (err, file) {
-    console.error(report(err || file));
+  .process(readSync('example.txt'), function (err, file) {
+    console.error(reporter(err || file));
   });
 ```
 
