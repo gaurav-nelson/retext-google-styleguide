@@ -1,0 +1,2 @@
+For 3-D rotation, abort the app first.
+Then hit autoupdate to update the app.

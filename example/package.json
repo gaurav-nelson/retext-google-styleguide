@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "name": "retext-example",
+  "version": "1.0.0",
+  "main": "example.js",
+  "dependencies": {
+    "retext": "^8.1.0",
+    "retext-emoji": "^8.1.0",
+    "retext-google-styleguide": "^1.0.0",
+    "retext-profanities": "^7.2.1",
+    "to-vfile": "3.0.0",
+    "vfile-reporter": "^7.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
